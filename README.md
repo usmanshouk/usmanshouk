@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @usmanshouk
+- 👋 Hi, I’m Usman Shoukat
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Data Science and AI
+- 🌱 I’m currently learning Business Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
